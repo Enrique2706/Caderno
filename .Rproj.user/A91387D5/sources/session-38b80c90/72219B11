@@ -3,7 +3,7 @@
     "path": "~/GitHub/Caderno/Caderno/_quarto.yml",
     "project_path": "_quarto.yml",
     "type": "yaml",
-    "hash": "0",
+    "hash": "99029036",
     "contents": "",
     "dirty": false,
     "created": 1752193161487.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "13,2",
+        "cursorPosition": "13,6",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1752196050,
+    "lastKnownWriteTime": 1752199114,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1752196050593,
+    "last_content_update": 1752199114798,
     "read_only": false,
     "read_only_alternatives": []
 }

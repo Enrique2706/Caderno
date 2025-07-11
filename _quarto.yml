@@ -6,12 +6,12 @@ website:
   title: "Caderno"
   navbar:
     left:
-      - href: index.qmd
-        text: "Inicio"
+      - text: "Inicio"
+        href: index.qmd
+        
+      - text: "Introdução ao R"
+        href: Introdução_ao_R.qmd 
       
-      - href: Introdução_ao_R.qmd  # Novo arquivo que você vai criar
-        text: "Introdução ao R"  # Nome que aparecerá na barra
-  
 
 format:
   html:
