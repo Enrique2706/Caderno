@@ -1,9 +1,9 @@
 {
     "id": "E346FFFC",
-    "path": "~/GitHub/restored/Introdução ao R.qmd",
+    "path": "~/GitHub/Caderno/Caderno/Introdução ao R.qmd",
     "project_path": "Introdução ao R.qmd",
     "type": "quarto_markdown",
-    "hash": "2635256147",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1752193673930.0,
@@ -19,7 +19,7 @@
         "rmdVisualCollapsedChunks": "",
         "cursorPosition": "5,0",
         "scrollLine": "0",
-        "rmdVisualModeLocation": "2:0"
+        "rmdVisualModeLocation": "47:0"
     },
     "folds": "",
     "lastKnownWriteTime": 1752198214,
