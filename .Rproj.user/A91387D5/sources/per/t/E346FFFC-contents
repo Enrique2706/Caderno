@@ -47,3 +47,48 @@ O **R** é uma linguagem de programação *poderosa* e *gratuita* criada em **19
     ```
 
     Se aparecer **`[1] 4`**, está funcionando! ✅
+
+    ### **2️⃣ Instalar o RStudio (Melhor IDE para R)**
+
+    📥 **Download:**\
+    🔗 [RStudio Desktop (Free)](https://posit.co/download/rstudio-desktop/)
+
+    ✅ **Passo a Passo:**
+
+    1.  Baixe a versão **GRATUITA** (*RStudio Desktop*)
+
+    2.  Instale normalmente (**Next \> Next \> Finish**)
+
+    3.  Ao abrir, você verá:
+
+        -   **Console R** (onde os códigos rodam)
+
+        -   **Editor de Scripts** (onde você escreve programas)
+
+        -   **Ambiente de Variáveis** (objetos criados)
+
+        -   **Visualizador de Gráficos**
+
+## **📦 Instalando Pacotes no R**
+
+### **1️⃣ Via Console**
+
+Para instalar um pacote (ex: **`agricolae`**):
+
+```{r}
+install.packages("agricolae")
+```
+
+### **2️⃣ Via RStudio (Interface Gráfica)**
+
+1.  Vá em **"Packages" \> "Install"**
+
+2.  Digite o nome do pacote (ex: **`tidyverse`**)
+
+3.  Clique em **"Install"**
+
+🔹 **Pacotes Úteis para Agricultura:**
+
+```{r}
+install.packages(c("agricolae", "tidyverse", "ggplot2", "lme4", "sf"))
+```
