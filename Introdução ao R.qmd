@@ -71,14 +71,6 @@ O **R** é uma linguagem de programação *poderosa* e *gratuita* criada em **19
 
 ## **📦 Instalando Pacotes no R**
 
-### **1️⃣ Via Console**
-
-Para instalar um pacote (ex: **`agricolae`**):
-
-```{r}
-install.packages("agricolae")
-```
-
 ### **2️⃣ Via RStudio (Interface Gráfica)**
 
 1.  Vá em **"Packages" \> "Install"**
