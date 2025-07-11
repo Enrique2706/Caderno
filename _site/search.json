@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Caderno",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "index.html#sejam-bem-vindos-ao-meu-web-site-enriqque",
+    "href": "index.html#sejam-bem-vindos-ao-meu-web-site-enriqque",
+    "title": "Caderno",
+    "section": "Sejam bem-vindos ao meu web site enriqque",
+    "text": "Sejam bem-vindos ao meu web site enriqque"
+  },
+  {
+    "objectID": "index.html#sobre-mim",
+    "href": "index.html#sobre-mim",
+    "title": "Caderno",
+    "section": "SOBRE MIM",
+    "text": "SOBRE MIM\nOlá! sou José Enrique Espitia López, sou Engenheiro em inovação agricola sustentavel pelo Instituto Tecnologico e Roque (México). Master Sciense em Fitotecnia pela Universidade Federal de Viçosa e atualmente doutorando no Programa de Pós-Graduação em FItopatologia atuando na Unidade de Controle Biologico"
+  },
+  {
+    "objectID": "index.html#sobre-a-disciplina",
+    "href": "index.html#sobre-a-disciplina",
+    "title": "Caderno",
+    "section": "SOBRE A DISCIPLINA",
+    "text": "SOBRE A DISCIPLINA\nA disciplina FIP-606 Análise e Visualização de Dados me permitiu compreender, explorar e interpretar diferentes conjuntos de dados de forma crítica e informada. Aprendi a organizar, limpar e separar dados para análises, reconhecendo os diferentes tipos de variáveis e suas características. Desenvolvi a capacidade de aplicar métodos estatísticos descritívos e inferenciais como testes de normalidade, correlação, regressão e ANOVA, afim de identificar padrões, tendências e relações entre as variáveis observadas. Tive ensinamentos sobre como comunicar os resultados de maneira clara, como na plotagem de gráficos, tabelas e outras visualizações adequadas para todos os tipos de informação. Neste site espero mostra um pouco do que aprendi ao longo do semestre."
+  },
+  {
+    "objectID": "index.html#agradecimento",
+    "href": "index.html#agradecimento",
+    "title": "Caderno",
+    "section": "AGRADECIMENTO",
+    "text": "AGRADECIMENTO\nAgradeço ao Professor Emerson Del Ponte e ao monitor da disciplina Ricardo Gomes Tomáz por todos os ensinamentos passados. Tenho certeza de que tudo o que eu aprendi será muito útil para minha formação acadêmica."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "Introdução ao R.html",
+    "href": "Introdução ao R.html",
+    "title": "Introdução ao R",
+    "section": "",
+    "text": "O R é uma linguagem de programação poderosa e gratuita criada em 1993 por Ross Ihaka e Robert Gentleman na Universidade de Auckland, Nova Zelândia. Surgiu como uma versão open-source da linguagem S (desenvolvida nos Bell Labs), e hoje é amplamente utilizado para:\n✔ Análises estatísticas (testes de hipóteses, modelos lineares, machine learning)\n✔ Ciência de dados (manipulação, limpeza e visualização de dados)\n✔ Gráficos avançados (ggplot2, plotly, mapas interativos)\n✔ Automatização de relatórios (R Markdown, Quarto)\n🔹 Por que usar R na Agricultura?\n\nAnálise de experimentos agrícolas (agricolae, lme4)\nModelagem de crescimento de cultivos (growthmodels, nlme)\nMapeamento de doenças e pragas (raster, sf, leaflet)\n\n\n\n\n📥 Download:\n🔗 CRAN (Site Oficial)\n✅ Passo a Passo:\n\nEscolha seu sistema operacional (Windows, Mac, Linux)\nClique em “Download R x.x.x for Windows” (ou equivalente)\nExecute o instalador e siga as instruções (deixe todas as opções padrão)\n\n🔹 Verificação:\nAbra o R Console e digite:\n\n2 + 2\n\n[1] 4\n\n\nSe aparecer [1] 4, está funcionando! ✅"
+  },
+  {
+    "objectID": "Introdução ao R.html#o-que-é-o-r",
+    "href": "Introdução ao R.html#o-que-é-o-r",
+    "title": "Introdução ao R",
+    "section": "",
+    "text": "O R é uma linguagem de programação poderosa e gratuita criada em 1993 por Ross Ihaka e Robert Gentleman na Universidade de Auckland, Nova Zelândia. Surgiu como uma versão open-source da linguagem S (desenvolvida nos Bell Labs), e hoje é amplamente utilizado para:\n✔ Análises estatísticas (testes de hipóteses, modelos lineares, machine learning)\n✔ Ciência de dados (manipulação, limpeza e visualização de dados)\n✔ Gráficos avançados (ggplot2, plotly, mapas interativos)\n✔ Automatização de relatórios (R Markdown, Quarto)\n🔹 Por que usar R na Agricultura?\n\nAnálise de experimentos agrícolas (agricolae, lme4)\nModelagem de crescimento de cultivos (growthmodels, nlme)\nMapeamento de doenças e pragas (raster, sf, leaflet)\n\n\n\n\n📥 Download:\n🔗 CRAN (Site Oficial)\n✅ Passo a Passo:\n\nEscolha seu sistema operacional (Windows, Mac, Linux)\nClique em “Download R x.x.x for Windows” (ou equivalente)\nExecute o instalador e siga as instruções (deixe todas as opções padrão)\n\n🔹 Verificação:\nAbra o R Console e digite:\n\n2 + 2\n\n[1] 4\n\n\nSe aparecer [1] 4, está funcionando! ✅"
+  }
+]

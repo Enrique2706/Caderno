@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Caderno"
+  navbar:
+    left:
+      - href: index.qmd
+        text: "Inicio"
+      
+      - href: Introdução_ao_R.qmd  # Novo arquivo que você vai criar
+        text: "Introdução ao R"  # Nome que aparecerá na barra
+  
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+

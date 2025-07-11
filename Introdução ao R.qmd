@@ -1,0 +1,49 @@
+---
+title: "Introdução ao R"
+format: html
+---
+
+## **🌱 O que é o R?**
+
+O **R** é uma linguagem de programação *poderosa* e *gratuita* criada em **1993** por **Ross Ihaka e Robert Gentleman** na **Universidade de Auckland, Nova Zelândia**. Surgiu como uma versão *open-source* da linguagem **S** (desenvolvida nos *Bell Labs*), e hoje é amplamente utilizado para:
+
+✔ **Análises estatísticas** (testes de hipóteses, modelos lineares, machine learning)\
+✔ **Ciência de dados** (manipulação, limpeza e visualização de dados)\
+✔ **Gráficos avançados** (ggplot2, plotly, mapas interativos)\
+✔ **Automatização de relatórios** (R Markdown, Quarto)
+
+🔹 **Por que usar R na Agricultura?**
+
+-   Análise de experimentos agrícolas (**`agricolae`**, **`lme4`**)
+
+-   Modelagem de crescimento de cultivos (**`growthmodels`**, **`nlme`**)
+
+-   Mapeamento de doenças e pragas (**`raster`**, **`sf`**, **`leaflet`**)
+
+    <div>
+
+    ## **💻 Instalação do R e RStudio**
+
+    </div>
+
+    ### **1️⃣ Baixar e Instalar o R**
+
+    📥 **Download:**\
+    🔗 [CRAN (Site Oficial)](https://cran.r-project.org/)
+
+    ✅ **Passo a Passo:**
+
+    1.  Escolha seu sistema operacional (**Windows, Mac, Linux**)
+
+    2.  Clique em **"Download R x.x.x for Windows"** (ou equivalente)
+
+    3.  Execute o instalador e siga as instruções (**deixe todas as opções padrão**)
+
+    🔹 **Verificação:**\
+    Abra o **R Console** e digite:
+
+    ```{r}
+    2 + 2
+    ```
+
+    Se aparecer **`[1] 4`**, está funcionando! ✅
